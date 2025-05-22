@@ -1,2 +1,2 @@
-# wwebsite-personal
+# website-personal
 web
